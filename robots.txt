@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oijijiexoe.delpart.science/sitemap.xml
